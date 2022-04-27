@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Hamde
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning php laravel
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I am a programmer php laravel
 
 <!---
 hamdeahmed21/hamdeahmed21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
