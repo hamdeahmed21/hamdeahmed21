@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hamde
+- 👋 Hi, I’m Hamdy
 - 👀 I’m interested in Programming
 - 🌱 I am a programmer php laravel
 
